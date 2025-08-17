@@ -1,0 +1,28 @@
+7/2/25 10:58:32.123 AM, EventID: 4625, Log Name: Security, Account: Administrator, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:32.456 AM, EventID: 4625, Log Name: Security, Account: Administrator, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:32.789 AM, EventID: 4625, Log Name: Security, Account: root, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:33.111 AM, EventID: 4625, Log Name: Security, Account: root, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:33.444 AM, EventID: 4625, Log Name: Security, Account: admin, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:33.777 AM, EventID: 4625, Log Name: Security, Account: admin, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:34.100 AM, EventID: 4625, Log Name: Security, Account: guest, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:34.433 AM, EventID: 4625, Log Name: Security, Account: guest, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:34.766 AM, EventID: 4625, Log Name: Security, Account: service, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:35.099 AM, EventID: 4625, Log Name: Security, Account: service, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:35.432 AM, EventID: 4625, Log Name: Security, Account: ubuntu, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:35.765 AM, EventID: 4625, Log Name: Security, Account: ubuntu, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:36.098 AM, EventID: 4625, Log Name: Security, Account: testuser, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:36.431 AM, EventID: 4625, Log Name: Security, Account: testuser, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:36.764 AM, EventID: 4625, Log Name: Security, Account: developer, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:37.097 AM, EventID: 4625, Log Name: Security, Account: developer, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:37.430 AM, EventID: 4625, Log Name: Security, Account: deploy, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:37.763 AM, EventID: 4625, Log Name: Security, Account: deploy, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:38.096 AM, EventID: 4625, Log Name: Security, Account: webuser, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:58:38.429 AM, EventID: 4625, Log Name: Security, Account: webuser, Failure Reason: Unknown user name or bad password., host: WIN-SRV-2019, source: brute_force_pattern.logs.txt
+7/2/25 10:59:01.000 AM, EventID: 4624, Log Name: Security, Account: Administrator, Logon Type: 2 (Interactive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:02.000 AM, EventID: 4624, Log Name: Security, Account: Administrator, Logon Type: 10 (RemoteInteractive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:03.000 AM, EventID: 4624, Log Name: Security, Account: root, Logon Type: 2 (Interactive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:04.000 AM, EventID: 4624, Log Name: Security, Account: admin, Logon Type: 10 (RemoteInteractive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:05.000 AM, EventID: 4624, Log Name: Security, Account: guest, Logon Type: 2 (Interactive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:06.000 AM, EventID: 4624, Log Name: Security, Account: guest, Logon Type: 10 (RemoteInteractive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:07.000 AM, EventID: 4624, Log Name: Security, Account: testuser, Logon Type: 2 (Interactive), host: WIN-SRV-2019, source: successful_logons.logs.txt
+7/2/25 10:59:08.000 AM, EventID: 4624, Log Name: Security, Account: testuser, Logon Type: 10 (RemoteInteractive), host: WIN-SRV-2019, source: successful_logons.logs.txt
